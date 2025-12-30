@@ -15,9 +15,10 @@ Desenvolver um aplicativo simples de tradução de inglês para português, apli
 - Desenvolvimento de aplicativo Android
 
 ## Funcionalidades
-- Entrada de texto em inglês pelo usuário
-- Tradução do texto para o português
+- Entrada de texto (ou voz) em inglês(ou português) pelo usuário
+- Tradução do texto para o português(ou inglês)
 - Exibição do resultado traduzido na tela
+- Execusão do áudio
 - Interface simples e funcional
 
 ## Contexto de desenvolvimento

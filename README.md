@@ -1,5 +1,5 @@
 
-# 🌍 Tradutor English Vs Portuguese (FalaGringo)
+# 🌍 Tradutor English To Portuguese (FalaGringo)
 
 Este projeto consiste em um **aplicativo tradutor de textos do inglês para o português**, desenvolvido por meio de **programação em blocos**, utilizando a plataforma **MIT App Inventor**.
 
